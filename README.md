@@ -16,7 +16,4 @@
 * Git
 * GitHub
 
-## 🚀 Сейчас изучаю
-
-Веб-разработку, React и TypeScript.
 ![GIF](https://i.gifer.com/fxZj.gif)
