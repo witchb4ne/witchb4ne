@@ -1,17 +1,22 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**witchb4ne/witchb4ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Антон.
 
-Here are some ideas to get you started:
+💻 Люблю веб-разработку и создание сайтов.
+🎵 Люблю музыку.
+🎮 В свободное время играю в Dota 2.
 
-- 🔭 I’m currently working on ааа
+## 🛠 Навыки
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* React
+* TypeScript
+* Git
+* GitHub
+
+## 🚀 Сейчас изучаю
+
+Веб-разработку, React и TypeScript.
+![GIF](https://i.gifer.com/fxZj.gif)
